@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:tflite/tflite.dart';
+import 'package:tflite_flutter/tflite_flutter.dart';
 
 class PredictionService {
   late List<dynamic> _output;
